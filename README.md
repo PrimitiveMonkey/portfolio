@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image] 
+![image] https://github.com/PrimitiveMonkey/portfolio/blob/main/site.png
 
 ## Ferramentas utilizadas:
 
