@@ -102,7 +102,7 @@ body {
 }
 @media (max-width: 1200px) {
     .topo {
-        padding: 1.5% 0% 1.5% 0%
+        padding: 1.5% 0% 1.5% 0%;
     }
     .topo_navegacao{
         justify-content: center;
@@ -112,6 +112,12 @@ body {
         flex-direction: column-reverse;
     }
     .apresentacao_conteudo {
+        width: auto;
+    }
+    .apresentacao_links {
+        width: auto;
+    }
+    .apresentacao_links_botao {
         width: auto;
     }
 }
