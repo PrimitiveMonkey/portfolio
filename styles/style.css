@@ -121,7 +121,7 @@ body {
         width: auto;
     }
     .IMG{
-        width: 50%;
-        height: 50%;
+        width: auto;
+        height: auto;
     }
 }
